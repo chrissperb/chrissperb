@@ -41,15 +41,15 @@
 ## Skills/Tools/Learning
 
 <p align="left">
-  🦄 <strong>Skills:</strong> Java and Algorithms.
+  🦄 <strong>Skills:</strong> Java, Spring Framework, SQL, NoSQL.
 </p>
 
 <p align="left">
-  🔧 <strong>Tools:</strong> IntelliJ, Netbeans and Git.
+  🔧 <strong>Tools:</strong> IntelliJ, Github, Git, MongoDB, Railway.
 </p>
 
 <p align="left">
-📚 <strong>Learning:</strong> Java, Git and Github.
+📚 <strong>Learning:</strong> Java, AWS.
 </p>
 
 <hr />
