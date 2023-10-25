@@ -12,10 +12,10 @@
 ### Hobbies
 
 <p align="left">
-  <a> 🏄 Surf</a><br>
+  <a> 🏄 Surfing </a><br>
   <a> 📺 Watch some movies and series </a><br>
   <a> 📖 Read some books</a><br>
-  <a> 🎮 Play games</a>
+  <a> 🎮 Play games: Brawl Stars, COD, Fortnite </a>
 </p>
 
 ### Contact me
