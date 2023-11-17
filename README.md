@@ -15,7 +15,7 @@
   <a> 🏄 Surfing </a><br>
   <a> 📺 Watch some movies and series </a><br>
   <a> 📖 Read some books</a><br>
-  <a> 🎮 Play games: Brawl Stars, COD, Fortnite </a>
+  <a> 🎮 Play games: Brawl Stars, Clash Royale, COD Warzone </a>
 </p>
 
 ### Contact me
@@ -49,7 +49,7 @@
 </p>
 
 <p align="left">
-📚 <strong>Learning:</strong> Java, JUnit, Mockito, TDD.
+📚 <strong>Learning:</strong> Java, JUnit, Mockito, TDD, Kotlin.
 </p>
 
 <hr />
