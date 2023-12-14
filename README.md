@@ -15,7 +15,7 @@
   <a> 🏄 Surfing </a><br>
   <a> 📺 Watch some movies and series </a><br>
   <a> 📖 Read some books</a><br>
-  <a> 🎮 Play games: Brawl Stars, Clash Royale, COD Warzone </a>
+  <a> 🎮 Play games: Brawl Stars, COD Warzone </a>
 </p>
 
 ### Contact me
