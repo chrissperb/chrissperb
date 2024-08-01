@@ -1,6 +1,6 @@
-<img src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Digitando no computador">
 
-<h1 align="center"> Hello! Welcome to my profile 😃 <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F568790627928202477%2F&psig=AOvVaw0r0ougcjS-ZbMQoY2diqP7&ust=1722624329018000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJiaq-251IcDFQAAAAAdAAAAABAE)" width="30px"></h1>
+<h1 align="center"> Hello! Welcome to my profile 😃 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 ## About me
 
