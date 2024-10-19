@@ -1,8 +1,8 @@
-<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Digitando no computador">
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
-<h1 align="center"> Hello! Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="left"> Hello! Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Digitando no computador"></h1>
 
-## About me
+### About me
 
 <p align="left">
   My name is Christian Sperb, and I am <strong> a forming Software Developer</strong>.<br>
@@ -38,7 +38,7 @@
 
 ---
 
-## Skills/Tools/Learning
+### Skills/Tools/Learning
 
 <p align="left">
   🦄 <strong>Skills:</strong> Java, Spring Framework, SQL, NoSQL, JUnit.
@@ -54,7 +54,7 @@
 
 <hr />
 
-## My history here on GitHub: <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='25"'> </h3>
+### My history here on GitHub: <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='25"'> </h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chrissperb&show_icons=true&theme=dracula" alt="Christian-Sperb" />
