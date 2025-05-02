@@ -3,7 +3,7 @@
 <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" min-width="400px" max-width="400px" width="400px" align="right"> 
 
 ### About Me
-<p align="left"> My name is Christian Sperb, and I am <strong>an aspiring Software Developer</strong> with a background in Biological Sciences.<br> I hold a postgraduate degree in Biological Sciences from Unisinos, Brazil, and I have transitioned my career to the tech field with a strong passion for coding and problem-solving. </p>
+<p align="left"> My name is Christian Sperb, and I am <strong>Software Developer</strong> with a background in Biological Sciences.<br> I hold a postgraduate degree in Biological Sciences from Unisinos, Brazil, and I have transitioned my career to the tech field with a strong passion for coding and problem-solving. </p>
 
 ### Hobbies
 <p align="left"> <a> 🏄 Surfing</a><br> <a> 📺 Watching movies and series</a><br> <a> 📖 Reading books</a><br> <a> 🎮 Gaming: Brawl Stars, COD Warzone</a> </p>
