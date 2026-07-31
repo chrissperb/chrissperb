@@ -1,6 +1,6 @@
 <h1 align="left">Hello! Welcome to my profile <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Typing on computer"></h1>
 
-<img src="https://drive.google.com/file/d/15s42XjcfEQ1oZAJG36kgx7gvOIwKgI0N/view?usp=sharing" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./chris-coding.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### About Me
 <p align="left"> My name is Christian Sperb, and I am <strong>Software Developer</strong> with a robust background in Environmental Science and Education.<br> Engineered with a unique hybrid background in backend development, data analysis, and project leadership. Transforming complex business requirements into robust, high-availability microservices. </p>
