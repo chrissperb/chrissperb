@@ -2,7 +2,7 @@
 
 <img src="chris_coding.gif" min-width="380px" max-width="380px" width="380px" align="right" alt="Christian Coding">
 
-### 🧬 Marine Biologist turned ☕ Backend Developer & 📜 PMP® Certified Engineer
+### Marine Biologist turned Backend Developer & PMP® Certified Engineer
 
 > *"I used to sequence shark DNA to detect mislabeled seafood. Now I debug Java microservices to keep high-availability financial systems swimming smoothly."*
 
