@@ -4,9 +4,13 @@
 
 <br/>
 
-<img src="chris_coding.gif" min-width="360px" max-width="360px" width="360px" align="right" alt="Christian Coding Animation">
+<p align="center">
+  <img src="chris_coding.gif" width="100%" alt="Christian Coding Animation" />
+</p>
 
-### 🧬 Marine Biologist turned ☕ Backend Developer & 📜 PMP® Certified Engineer
+<br/>
+
+### Marine Biologist turned ☕ Backend Developer & PMP® Certified Engineer
 
 > *"I used to sequence shark DNA to detect mislabeled seafood. Now I debug Java microservices to keep high-availability financial systems swimming smoothly."*
 
