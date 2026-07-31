@@ -69,8 +69,8 @@ I actively leverage Artificial Intelligence as a pair-programmer to design, refa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=chrissperb&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Christian's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=chrissperb&layout=compact&theme=dracula&hide=html,css&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=chrissperb&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Christian's GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chrissperb&layout=compact&theme=dracula&hide=html,css&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
